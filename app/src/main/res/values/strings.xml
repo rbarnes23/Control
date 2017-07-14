@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="info">Waiting for Accelerometer Data...</string>
+    <string name="app_name">Robot Control</string>
+    
+    <string name="about_menu_name">About</string>
+    
+    
+    <string name="about_message">Control application for Robotics.\n\nVisit http://206.51.233.6 for more info.</string>
+<string name="xvalue">X </string>
+<string name="yvalue">Y </string>
+<string name="zvalue">Z </string>
+<string name="hostip">206.51.233.6</string>
+    <string name="notconnected">Not Connected</string>
+    <string name="connected">Connected</string>
+</resources>
